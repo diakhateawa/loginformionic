@@ -1,0 +1,7 @@
+{
+  "name": "loginformionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
